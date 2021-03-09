@@ -1,4 +1,4 @@
-# dot-and-linux-readme
+# Dot and linux
 ## Minecraft
 Set java version:
 
