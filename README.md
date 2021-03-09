@@ -1,4 +1,4 @@
 # dot-and-linux-readme
 ## Minecraft
-Set java version:\n
+Set java version:
 ```sudo update-alternatives --config java```
