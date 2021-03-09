@@ -18,3 +18,15 @@ Then copy your file to:
 
     sudo update-alternatives --config java
 
+##GitHub Connecting
+In project directory:
+
+    git remote add origin git@github.com:SashaXacker/repository-name.git
+
+Typical command:
+`git init` - Initial project in dir
+`git pull` - Pulling files from GitHub to dir
+`git branch -M <branch>` - Jump to other branch
+`git add .` - Add all files to git pushing bufer
+`git commit -m "commit"` - Commiting pushing buffer
+`git push -u origin master` - pushing to github files in dir
