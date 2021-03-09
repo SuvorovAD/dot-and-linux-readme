@@ -25,8 +25,13 @@ In project directory:
 
 Typical command:
 `git init` - Initial project in dir
+
 `git pull` - Pulling files from GitHub to dir
+
 `git branch -M <branch>` - Jump to other branch
+
 `git add .` - Add all files to git pushing bufer
+
 `git commit -m "commit"` - Commiting pushing buffer
+
 `git push -u origin master` - pushing to github files in dir
