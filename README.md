@@ -32,6 +32,6 @@ Typical command:
 
 `git add .` - Add all files to git pushing bufer
 
-`git commit -m "commit"` - Commiting pushing buffer
+`git commit -m "<commit>"` - Commiting pushing buffer
 
 `git push -u origin master` - pushing to github files in dir
