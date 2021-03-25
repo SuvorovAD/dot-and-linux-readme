@@ -42,6 +42,7 @@ Typical command:
 ## Install ZSH
 ### ZSH
 `sudo apt install zsh`
+
 `zsh`
 ### OH-MY-ZSH
 `curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh`
