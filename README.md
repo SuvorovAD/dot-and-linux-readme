@@ -1,6 +1,7 @@
 # Dot and linux
 ## Install powerlines fonts
 `sudo apt install fonts-powerline`
+`sudo dnf install powerline-fonts`
 ## Tags
 To create tag you need create .desktop file with text:
 
